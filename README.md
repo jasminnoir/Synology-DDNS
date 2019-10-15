@@ -1,1 +1,1 @@
-"# Synology-DDNS" 
+Synology DDNS Script
